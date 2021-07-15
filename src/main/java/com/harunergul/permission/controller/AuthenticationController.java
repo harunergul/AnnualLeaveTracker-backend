@@ -124,7 +124,7 @@ public class AuthenticationController {
 			ArrayList<Role> normalRoles = new ArrayList<>();
 			User normalUser = new User("harun", passwordEncoder.encode("harun"), normalRoles);
 			normalUser.setFirstName("Harun");
-			normalUser.setLastName("Ergül");
+			normalUser.setLastName("Ergul");
 			normalUser.setEnabled(true);
 			normalUser.setExist(true);
 
