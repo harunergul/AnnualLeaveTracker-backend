@@ -31,3 +31,12 @@ mvnw
 mvnw.cmd
 data/demo.mv.db
 data/demo.trace.db
+.idea/.name
+.idea/compiler.xml
+.idea/CoverUsage.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+permission.iml
+permission.ipr
+permission.iws
