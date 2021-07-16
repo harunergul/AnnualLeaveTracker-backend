@@ -30,3 +30,4 @@ target/*
 mvnw
 mvnw.cmd
 data/demo.mv.db
+data/demo.trace.db
